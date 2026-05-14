@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    {
+      "slug": "hello-world",
+      "name": "Hello World",
+      "description": "示例插件 - 展示插件开发基本结构",
+      "version": "1.0.0",
+      "author": "lingmi-team",
+      "icon": "",
+      "download_url": "https://github.com/cangerx/lingmi-plugins/releases/download/hello-world-v1.0.0/hello-world.tar.gz",
+      "min_version": "1.0.0",
+      "tags": ["示例", "入门"],
+      "size": "1KB"
+    }
+  ]
+}

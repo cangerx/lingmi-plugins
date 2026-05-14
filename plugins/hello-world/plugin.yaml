@@ -1,0 +1,11 @@
+id: hello-world
+name: Hello World
+version: 1.0.0
+description: 示例插件 - 展示插件开发基本结构
+icon: ""
+route: /plugins/hello-world
+menu:
+  label: Hello World
+  position: tools
+api:
+  enabled: false
